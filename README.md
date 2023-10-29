@@ -86,7 +86,7 @@ Enlaces a la página web del [IES Jaume II El Just][1] y a [GitHub][2].
 Por ejemplo, en esta frase  
 hemos forzado un salto de línea.
 
-El simbolo ">" Se usa para .
+El simbolo ">" Se usa para poner una cita.
 > Este texto daría como resultado una cita.
 
 Párrafo 1.
